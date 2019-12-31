@@ -1,4 +1,8 @@
-![Version 0.3.0](http://img.shields.io/badge/Version-0.3.0-blue.svg?style=flat)
+## This repository has been superseded by [Mol* BinaryCIF](https://github.com/molstar/BinaryCIF).
+
+---------------------
+
+![Version 0.3.0](https://img.shields.io/badge/Version-0.3.0-blue.svg?style=flat)
 
 ![BinaryCIF](img/logo.png)
 
